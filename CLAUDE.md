@@ -227,7 +227,7 @@ Never commit directly to `main` (after the initial scaffold). Never commit `.env
 
 Update the checkboxes as features are merged.
 
-- [ ] 0. Scaffold: folders, dependencies, Docker services, Prettier/Husky, first commit
+- [x] 0. Scaffold: folders, dependencies, Docker services, Prettier/Husky, first commit
 - [ ] 1. Health check: env config, pg pool, Redis client, app/server split, error handler,
       `GET /api/health`, GitHub Actions CI (lint, typecheck, test, build)
 - [ ] 2. Database migrations for users, leads, activities
